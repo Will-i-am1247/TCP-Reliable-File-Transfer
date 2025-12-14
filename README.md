@@ -4,7 +4,7 @@
 Implementation of a reliable file transfer client over TCP, focusing on protocol reliability concepts such as acknowledgments, sequencing, and retransmissions.
 
 ## Technologies
-- C / C++
+- C++
 - TCP/IP
 - Socket Programming
 - Linux / Unix
